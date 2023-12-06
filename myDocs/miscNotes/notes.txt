@@ -1,0 +1,16 @@
+
+Created: Dec6/2023
+By: Mitchell Palermo
+For: Hosting notes for palerm.ca
+
+--------------
+- got domain + email all hosted by doteasy.ca
+- cpanel managed email + files 
+
+nav to cpanel: doteasy login 
+                   > palerm.ca under all domains  
+                    > under hosting look for Manage email
+                     > willredirect to cpanel, there are 2 dirs, for email and for files(website)
+                        > 'file manager' under files(web) tab will take you to cpanel folder, only need to update the public_html folder + the www folder will reflect this
+                         > the sitemap.xml will det what will run upon website landing, routes to index.htm, this is the palermHome.html renamed, it refs the palermHome.js script which is named script.js
+
